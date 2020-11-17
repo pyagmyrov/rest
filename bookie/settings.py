@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['127.0.0.1','206.189.221.52',]
 # Application definition
 
 INSTALLED_APPS = [
-    'bookie',
+    'core',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
